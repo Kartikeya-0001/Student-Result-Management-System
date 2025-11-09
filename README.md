@@ -38,6 +38,7 @@ It manages student records efficiently and demonstrates how data structures opti
 ## Output Screenshot
 <img width="589" height="493" alt="Screenshot 2025-11-09 220717" src="https://github.com/user-attachments/assets/801bbe28-c29d-4200-8929-13d2d3d09200" />
 
+## Author
 - Name - Kartikeya Drall
 - Roll No - 2401720014
 - B.Sc (H) Computer Science
